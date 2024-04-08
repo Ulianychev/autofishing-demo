@@ -1,18 +1,9 @@
-AUTOFISHING V1.0.2
-
-
+#AUTOFISHING V1.0.2
 
 HERE YOU WILL FIND INSTRUCTIONS, TIPS, POSSIBLE ERRORS, AND CONTACTS.
-
-
-
 (For full immersion, you can run an audio file with music and put it on repeat).
 
-
-
 Using the app:
-
-
 
 1. Run the application AUTOFISHING.exe
 
@@ -79,3 +70,15 @@ POSSIBLE ERRORS:
 		- Renewing the licence, it is recommended directly through the moderator, as funpay takes a commission for transfers.
 		- If the licence should not have expired, make sure your internet connection is working and antiviruses are not interfering with the program. 
 		- Contact the moderator
+
+
+If you have any problems or bugs of any type, please contact the moderators of the script:
+
+Telegram: t.me/impassive_hawk
+discord: legyska / LEGYSKA#6342
+
+To extend the licence it is recommended to contact the moderator directly, so that you do not have to make any new downloads. 
+
+Guaranteed assistance throughout the subscription period, as well as access to updates.
+
+Interference with the application may cause the script to malfunction and is not covered by the warranty. Problems of any type are solved by moderators. 
