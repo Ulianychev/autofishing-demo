@@ -1,0 +1,81 @@
+AUTOFISHING V1.0.2
+
+
+
+HERE YOU WILL FIND INSTRUCTIONS, TIPS, POSSIBLE ERRORS, AND CONTACTS.
+
+
+
+(For full immersion, you can run an audio file with music and put it on repeat).
+
+
+
+Using the app:
+
+
+
+1. Run the application AUTOFISHING.exe
+
+2. Wait for the startup protocol to execute.
+
+3. Click on the "Start" button. 
+
+4. Wait for a successful startup message.
+
+5. In-game:
+
+	5.1 Sit on a chair/sofa or any other object (restricting the player's movements), you can put two small chests on the triangular base, they can block the player (but he can accidentally climb out and not from the chair, and the chair costs 100 scrap to explore, you can walk to it).
+
+	5.2 Pick up the fishing rods filled with bait.
+
+	5.3 Select the first slot, point the fishing rod with the PCM at an empty spot in the water (the float will be blue). Release the PCM.
+
+	5.4. Press RCtrl, release the mouse and enjoy the process.
+
+6. If you need to terminate the script, press F11 to pause, then PCM (the cursor should appear), and then click "Exit" in the active panel.
+
+7. Restarting the script.
+
+	7.1 If you accidentally (or intentionally) pressed the PCM while the script was running, press the Far Side Mouse button to heal the PCM to restore functionality. Otherwise, click "Restart" in the active application panel.
+
+	7.2 To exit the application, click "Exit" in the active panel (the cross will only minimise the panel to the tray, if you closed it via the cross, there will be a fishing rod icon in the taskbar, through which you can close the application).
+
+8. Fishing.
+
+	8.1 For the longest fishing, place 6 fishing rods filled with bait in hot slots (it is better to use raw fish or raw bear meat).
+
+	8.2 The script will automatically use ~20 baits (so you need to put 20 in each) and then move to the next rod (slots 1>2>3>4>5>6).
+
+	8.2 Every two hours (120 minutes or more) the script will AUTOMATICALLY strip the fish of the first two inventory lines and then fill the rods with new bait.
+
+	8.3 The script will then go to the already filled rods and start the process all over again. 
+
+TIPS:
+
+1. It is not advisable to fish from a chair/sofa etc.
+
+2. fishing as a clan can be a huge income per hour.
+
+3. If you plan on leaving your fishing rods for the long term, I, as a moderator, highly recommend doing the following: 
+
+	1) On the third line, put one fish each that you would like to keep for sale. Typically put one shark in all 6 slots, but if you would also like to keep salmon, then put one fish per slot in a 3:3 ratio. 
+
+	2) Otherwise all the fish in the 1st and 2nd row will automatically be stripped for bait.
+
+4. Build your farm in the place where you managed to catch a shark, as they don't live everywhere. But building on the river will greatly simplify life, although the profit will be slightly lower, because instead of sharks there are perch and catfish.
+
+5. Questions of any type can be asked to moderators, tech support comes bundled in the subscription.
+
+6. All fish except sharks, bigheads, perch, catfish (trout only provide bait, but you can fish for live trout later). Dissecting all other wildlife, you can get precious bait to prepare to run the script.
+
+7. The script can be run with any number of fish in the rod. I, for example, sometimes with one rod for 20 bait I would run the script and go to lunch at that time. Then just pause it and reload to restart it.
+8. Cutting up salmon is a good cause. From them falls ash 20 bait and with some probability blue card, which can be realised or sold to other players (or in the camp of bandits for 50 scrap).
+
+
+POSSIBLE ERRORS:
+"Licence expired ..." 
+	Solution:
+		- If you are on the demo version, then the trial period has expired.
+		- Renewing the licence, it is recommended directly through the moderator, as funpay takes a commission for transfers.
+		- If the licence should not have expired, make sure your internet connection is working and antiviruses are not interfering with the program. 
+		- Contact the moderator
