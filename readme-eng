@@ -1,8 +1,3 @@
-Run determiner.exe (it will determine the mac address to which this script will be bound), wait for the programme to execute and copy the given text. Send it to the moderator and wait for a positive response.
-
-Then follow the instructions (instructions.txt)
-
-
 By using the script you accept the licence agreement (Licence.txt).
 
 You must have AHK (AutoHotkey) installed for the application to work properly.
